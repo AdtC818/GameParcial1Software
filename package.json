@@ -1,0 +1,23 @@
+{
+  "name": "gameparcial1software",
+  "version": "1.0.0",
+  "description": "Mini videojuego 2D con Node.js y Kaboom.js para la clase de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdtC818/GameParcial1Software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdtC818/GameParcial1Software/issues"
+  },
+  "homepage": "https://github.com/AdtC818/GameParcial1Software#readme",
+  "dependencies": {
+    "kaboom": "^3000.1.17"
+  }
+}
